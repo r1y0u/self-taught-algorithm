@@ -1,6 +1,6 @@
 
 
-# self-taught-datastructture
+# self-taught-datastructure
 
 the basics of stack and queue in python
 
