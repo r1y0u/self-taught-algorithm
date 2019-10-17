@@ -1,2 +1,2 @@
-# self-taught-algorithm
+# self-taught-datastructture
 stack and queue in python
